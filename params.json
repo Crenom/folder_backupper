@@ -1,0 +1,9 @@
+{
+  "source_folder": "C:\\Work",
+  "destination_folder": "C:\\Work_backup",
+  "ignore_patterns": [
+    ".git",
+    "venv",
+    "tmp*"
+  ]
+}
